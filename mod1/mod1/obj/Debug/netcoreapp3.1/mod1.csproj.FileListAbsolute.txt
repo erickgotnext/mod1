@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/bin/Debug/netcoreapp3.1/mod1.deps.json
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/bin/Debug/netcoreapp3.1/mod1.runtimeconfig.json
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/bin/Debug/netcoreapp3.1/mod1.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/bin/Debug/netcoreapp3.1/mod1.dll
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/bin/Debug/netcoreapp3.1/mod1.pdb
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/obj/Debug/netcoreapp3.1/mod1.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/obj/Debug/netcoreapp3.1/mod1.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/obj/Debug/netcoreapp3.1/mod1.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/obj/Debug/netcoreapp3.1/mod1.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/obj/Debug/netcoreapp3.1/mod1.dll
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/obj/Debug/netcoreapp3.1/mod1.pdb
+/Users/erickmeraz/Desktop/mod 1/mod1/mod1/obj/Debug/netcoreapp3.1/mod1.genruntimeconfig.cache
